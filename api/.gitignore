@@ -1,0 +1,8 @@
+dist
+circuits
+node_modules
+.vscode
+[0-9]*/
+upload/
+reports
+.env
